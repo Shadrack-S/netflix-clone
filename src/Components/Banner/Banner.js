@@ -4,6 +4,7 @@ import './Banner.css'
 import axios from "../../axios";
 
 
+
 function Banner() {
     const[movie,setMovie]=useState()
    useEffect(() => {
